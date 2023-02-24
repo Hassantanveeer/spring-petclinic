@@ -16,3 +16,18 @@ The section of the POM file showing the coordinates after you’ve commented the
 out.
 
 ![Screen Capture #1](images/img4.png)
+
+Your GitHub Actions dashboard showing the unsuccessful build after the breaking
+change.
+
+
+![Screen Capture #1](images/img5.png)
+
+
+Your GitHub repository with the readme.md file selected showing the build failed
+status after the GitHub workflow fails.
+
+![Screen Capture #1](images/img6.png)
+
+
+
